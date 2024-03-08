@@ -1,0 +1,38 @@
+Total Users: 5
+Total Tasks: 8
+----------------------------------------
+User: admin
+Tasks Assigned: 2
+Tasks Assigned Percentage: 25.0%
+Completed Percentage: 50.0%
+Incomplete Percentage: 50.0%
+Overdue Percentage: 0.0%
+----------------------------------------
+User: rob
+Tasks Assigned: 1
+Tasks Assigned Percentage: 12.5%
+Completed Percentage: 0.0%
+Incomplete Percentage: 0.0%
+Overdue Percentage: 100.0%
+----------------------------------------
+User: con
+Tasks Assigned: 4
+Tasks Assigned Percentage: 50.0%
+Completed Percentage: 0.0%
+Incomplete Percentage: 75.0%
+Overdue Percentage: 25.0%
+----------------------------------------
+User: xan
+Tasks Assigned: 1
+Tasks Assigned Percentage: 12.5%
+Completed Percentage: 0.0%
+Incomplete Percentage: 0.0%
+Overdue Percentage: 100.0%
+----------------------------------------
+User: bl
+Tasks Assigned: 0
+Tasks Assigned Percentage: 0%
+Completed Percentage: 0%
+Incomplete Percentage: 0%
+Overdue Percentage: 0%
+----------------------------------------
